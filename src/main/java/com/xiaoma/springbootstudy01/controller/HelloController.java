@@ -11,6 +11,7 @@ public class HelloController {
     public String hello() {
 
         System.out.println("git修改");
+        System.out.println("git修改");
         /*调用业务层 接收前端参数 */
         return "hello";
 
